@@ -1,7 +1,5 @@
 # React Calculator
 
-![preview](./public/preview.jpg)
-
 Projeto desenvolvido como exercício do bootcamp Orange Tech+ da Dio, com intuíto de prática em ReactJS. O exercício proposto era melhorar a página e implementar novas funcionalidades em uma calculadora.
 
 # Implementações
@@ -20,7 +18,3 @@ Projeto desenvolvido como exercício do bootcamp Orange Tech+ da Dio, com intuí
 - Styled Components
 - Git/GitHub
 
-[Clique aqui para acessar o projeto](https://axlbr.github.io/react-calculator/)
-
-# Contato
-gabrieltoby@gmail.com
